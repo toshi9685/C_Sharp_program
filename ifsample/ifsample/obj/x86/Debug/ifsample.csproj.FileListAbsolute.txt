@@ -1,0 +1,5 @@
+/Users/mitsutoshi/Desktop/ifsample/ifsample/bin/Debug/ifsample.exe
+/Users/mitsutoshi/Desktop/ifsample/ifsample/bin/Debug/ifsample.pdb
+/Users/mitsutoshi/Desktop/ifsample/ifsample/obj/x86/Debug/ifsample.csproj.CoreCompileInputs.cache
+/Users/mitsutoshi/Desktop/ifsample/ifsample/obj/x86/Debug/ifsample.exe
+/Users/mitsutoshi/Desktop/ifsample/ifsample/obj/x86/Debug/ifsample.pdb

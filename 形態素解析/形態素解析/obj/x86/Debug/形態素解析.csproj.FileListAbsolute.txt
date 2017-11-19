@@ -1,0 +1,5 @@
+/Users/mitsutoshi/Projects/形態素解析/形態素解析/bin/Debug/形態素解析.exe
+/Users/mitsutoshi/Projects/形態素解析/形態素解析/bin/Debug/形態素解析.pdb
+/Users/mitsutoshi/Projects/形態素解析/形態素解析/obj/x86/Debug/形態素解析.csproj.CoreCompileInputs.cache
+/Users/mitsutoshi/Projects/形態素解析/形態素解析/obj/x86/Debug/形態素解析.exe
+/Users/mitsutoshi/Projects/形態素解析/形態素解析/obj/x86/Debug/形態素解析.pdb

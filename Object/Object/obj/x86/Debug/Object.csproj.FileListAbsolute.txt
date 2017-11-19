@@ -1,0 +1,5 @@
+/Users/mitsutoshi/Projects/Object/Object/bin/Debug/Object.exe
+/Users/mitsutoshi/Projects/Object/Object/bin/Debug/Object.pdb
+/Users/mitsutoshi/Projects/Object/Object/obj/x86/Debug/Object.csproj.CoreCompileInputs.cache
+/Users/mitsutoshi/Projects/Object/Object/obj/x86/Debug/Object.exe
+/Users/mitsutoshi/Projects/Object/Object/obj/x86/Debug/Object.pdb

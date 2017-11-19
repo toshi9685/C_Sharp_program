@@ -1,0 +1,5 @@
+/Users/mitsutoshi/Projects/keisho/keisho/obj/x86/Debug/keisho.csproj.CoreCompileInputs.cache
+/Users/mitsutoshi/Projects/keisho/keisho/bin/Debug/keisho.exe
+/Users/mitsutoshi/Projects/keisho/keisho/bin/Debug/keisho.pdb
+/Users/mitsutoshi/Projects/keisho/keisho/obj/x86/Debug/keisho.exe
+/Users/mitsutoshi/Projects/keisho/keisho/obj/x86/Debug/keisho.pdb

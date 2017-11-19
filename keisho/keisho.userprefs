@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{73C1407F-A41D-4E53-AE00-4D49A0141AE7}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="keisho/calculater.cs">
+    <Files>
+      <File FileName="keisho/Program.cs" Line="16" Column="13" />
+      <File FileName="keisho/calculater.cs" Line="4" Column="5" />
+      <File FileName="keisho/ExCalculator.cs" Line="2" Column="17" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.keisho PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

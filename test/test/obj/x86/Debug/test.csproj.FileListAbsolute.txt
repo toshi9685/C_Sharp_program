@@ -1,0 +1,5 @@
+/Users/mitsutoshi/Desktop/test/test/bin/Debug/test.exe
+/Users/mitsutoshi/Desktop/test/test/bin/Debug/test.pdb
+/Users/mitsutoshi/Desktop/test/test/obj/x86/Debug/test.csproj.CoreCompileInputs.cache
+/Users/mitsutoshi/Desktop/test/test/obj/x86/Debug/test.exe
+/Users/mitsutoshi/Desktop/test/test/obj/x86/Debug/test.pdb

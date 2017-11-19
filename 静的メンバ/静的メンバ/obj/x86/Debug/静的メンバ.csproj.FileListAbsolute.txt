@@ -1,0 +1,5 @@
+/Users/mitsutoshi/Projects/静的メンバ/静的メンバ/bin/Debug/静的メンバ.exe
+/Users/mitsutoshi/Projects/静的メンバ/静的メンバ/bin/Debug/静的メンバ.pdb
+/Users/mitsutoshi/Projects/静的メンバ/静的メンバ/obj/x86/Debug/静的メンバ.csproj.CoreCompileInputs.cache
+/Users/mitsutoshi/Projects/静的メンバ/静的メンバ/obj/x86/Debug/静的メンバ.exe
+/Users/mitsutoshi/Projects/静的メンバ/静的メンバ/obj/x86/Debug/静的メンバ.pdb

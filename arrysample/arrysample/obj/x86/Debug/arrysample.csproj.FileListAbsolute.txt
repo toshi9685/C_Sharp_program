@@ -1,0 +1,5 @@
+/Users/mitsutoshi/Projects/arrysample/arrysample/bin/Debug/arrysample.exe
+/Users/mitsutoshi/Projects/arrysample/arrysample/bin/Debug/arrysample.pdb
+/Users/mitsutoshi/Projects/arrysample/arrysample/obj/x86/Debug/arrysample.csproj.CoreCompileInputs.cache
+/Users/mitsutoshi/Projects/arrysample/arrysample/obj/x86/Debug/arrysample.exe
+/Users/mitsutoshi/Projects/arrysample/arrysample/obj/x86/Debug/arrysample.pdb
